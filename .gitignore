@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.system_generated/
+*.log
+nba_player_logs_23_24.csv
